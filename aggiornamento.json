@@ -1,9 +1,9 @@
 {
-  "versione": "0.1",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.1/digitalCUP-0.1.pacchetto",
-  "sha256": "f31c8d5687f71b1ce87bfa82f02a8d9a219e07e1ec4c1c74207f15bad0d5f432",
-  "dimensione": 148745358,
-  "note": "Prima versione di digitalCUP",
+  "versione": "0.2",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.2/digitalCUP-0.2.pacchetto",
+  "sha256": "56d7928f9709567b43968b01d18ec4ac45722c2e6126386a5c42fce52419c085",
+  "dimensione": 147462150,
+  "note": "Console a colori (sezioni, etichette/valori, percorsi, GOL, CUP, importi); pratiche da OneDrive scaricate a richiesta per codice GOL; correzioni varie.",
   "data": "2026-10-27",
-  "firma": "YY/Ksm9DF3/4xWOJhSDo6Lw+NQKabJNaJhsjTroMDdsqUMvM77IX02AWTYXeIr9ElWeJ43xOq4sBOhsTpMNoCA=="
+  "firma": "LDzMGuS0oEF9g8e8r1RB4CMBi+qlNJ67fZnfMm5vKvpIymkobExDuYDOfI7P5QWjNpvFKZhPtIUDdoI+sKtsBQ=="
 }
