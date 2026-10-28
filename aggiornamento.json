@@ -1,9 +1,9 @@
 {
-  "versione": "0.2",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.2/digitalCUP-0.2.pacchetto",
-  "sha256": "56d7928f9709567b43968b01d18ec4ac45722c2e6126386a5c42fce52419c085",
-  "dimensione": 147462150,
-  "note": "Console a colori (sezioni, etichette/valori, percorsi, GOL, CUP, importi); pratiche da OneDrive scaricate a richiesta per codice GOL; correzioni varie.",
-  "data": "2026-10-27",
-  "firma": "LDzMGuS0oEF9g8e8r1RB4CMBi+qlNJ67fZnfMm5vKvpIymkobExDuYDOfI7P5QWjNpvFKZhPtIUDdoI+sKtsBQ=="
+  "versione": "0.3",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.3/digitalCUP-0.3.pacchetto",
+  "sha256": "8c26183d1193becc6295ee1f6da34ffcc9854829d48d8eb46970edae421c6955",
+  "dimensione": 147589071,
+  "note": "Novita' della 0.3: gli errori arrivano da soli all'assistenza (cifrati, con il testo della console); pulsante 'Segnala un problema'; Converti Word in PDF (piu' file insieme); Strumenti PDF (unisci, dividi, comprimi, prepara per PEC, estrai da P7M); schema dei workflow con l'avanzamento in tempo reale. Correzioni: pulsanti di risposta che a volte sparivano, campi facoltativi vuoti che bloccavano il PDF, arrotondamento al centesimo.",
+  "data": "2026-10-28",
+  "firma": "2jwUQtIaOzeAyWuq0SenwARIpAhbom/tYu5xDZgbi7G6D3DhaUpse6pUECHexBV3G89ixTbCglb6DpfQUcNYCw=="
 }
