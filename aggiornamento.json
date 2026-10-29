@@ -1,9 +1,9 @@
 {
   "versione": "0.4",
   "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4/digitalCUP-0.4.pacchetto",
-  "sha256": "f44be8e1c0b56a90c3c0f4306eb032f8787833adbb7bfbee21329d5a1b50a04f",
-  "dimensione": 147592909,
-  "note": "Novita' della 0.4: gli errori arrivano da soli all'assistenza (cifrati, con il testo della console), senza segnalare i dati mancanti gia' noti; pulsante 'Segnala un problema'; Converti Word in PDF (piu' file insieme, senza mai sostituire un PDF esistente); Strumenti PDF (unisci, dividi, comprimi, prepara per PEC, estrai da P7M; i PDF firmati non vengono toccati); schema dei workflow con l'avanzamento in tempo reale. Correzioni: pulsanti di risposta che a volte sparivano, campi facoltativi vuoti che bloccavano il PDF, arrotondamento al centesimo, concessioni di elenchi diversi che si sovrascrivevano.",
-  "data": "2026-10-28",
-  "firma": "4PerDtJ/OIGt5ht7fzfzYhoWLeDb7zff6pOSPeamuO94Hsj+Zx1dDmbO6rql/GDy2+29PTixGcLCW3dzP19xAQ=="
+  "sha256": "deea208e201d3e46de983e558f26091be8392be007c7b08e2405b6c289f3ed50",
+  "dimensione": 147862105,
+  "note": "Novita' della 0.4: manuale d'uso nel programma (pulsante 'Manuale d'uso'); gli errori arrivano da soli all'assistenza (cifrati, con il testo della console), senza segnalare i dati mancanti gia' noti; pulsante 'Segnala un problema'; Converti Word in PDF (piu' file insieme, senza mai sostituire un PDF esistente); Strumenti PDF (unisci, dividi, comprimi, prepara per PEC, estrai da P7M; i PDF firmati non vengono toccati); schema dei workflow con l'avanzamento in tempo reale. Correzioni: pulsanti di risposta, campi facoltativi vuoti, arrotondamento al centesimo, concessioni di elenchi diversi che si sovrascrivevano.",
+  "data": "2026-10-29",
+  "firma": "+k1aznaNZzIvT12Ip/puOo8Ly1ZibTTA0haRjsbttlTKrsU10+I0TZsuSxOjlUx1bTsAeSpvBCH0OF+G3eztBQ=="
 }
