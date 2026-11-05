@@ -1,9 +1,9 @@
 {
-  "versione": "0.4",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4/digitalCUP-0.4.pacchetto",
-  "sha256": "deea208e201d3e46de983e558f26091be8392be007c7b08e2405b6c289f3ed50",
-  "dimensione": 147862105,
-  "note": "Novita' della 0.4: manuale d'uso nel programma (pulsante 'Manuale d'uso'); gli errori arrivano da soli all'assistenza (cifrati, con il testo della console), senza segnalare i dati mancanti gia' noti; pulsante 'Segnala un problema'; Converti Word in PDF (piu' file insieme, senza mai sostituire un PDF esistente); Strumenti PDF (unisci, dividi, comprimi, prepara per PEC, estrai da P7M; i PDF firmati non vengono toccati); schema dei workflow con l'avanzamento in tempo reale. Correzioni: pulsanti di risposta, campi facoltativi vuoti, arrotondamento al centesimo, concessioni di elenchi diversi che si sovrascrivevano.",
-  "data": "2026-10-29",
-  "firma": "+k1aznaNZzIvT12Ip/puOo8Ly1ZibTTA0haRjsbttlTKrsU10+I0TZsuSxOjlUx1bTsAeSpvBCH0OF+G3eztBQ=="
+  "versione": "0.4.1",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.1/digitalCUP-0.4.1.pacchetto",
+  "sha256": "30811cb02a5fdb55809ba13ac6139579e93ee84e51b72a6667f224007c13b7f0",
+  "dimensione": 148757181,
+  "note": "Novita' della 0.4.1: i modelli Word sono gia' nel programma; prima di ogni workflow controlla se un Excel e' bloccato o aperto e dice cosa fare; il controllo dei PDF guarda solo i corsi scelti (prima un PDF di un altro corso poteva fermare tutto); valgono anche le cartelle LIQUIDAZIONI e simili; pulsante Ritorna quando si inseriscono i valori a mano.",
+  "data": "2026-11-05",
+  "firma": "hNJd1R/ByHSAs5F1EUZG9Ztk5UjxC2BUCWWpAKrbfbheUAXQyTZK6GeEp9LoQxrU1025LmHYvWSAlpMZQd6WCQ=="
 }
