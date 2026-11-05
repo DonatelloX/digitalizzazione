@@ -1,9 +1,9 @@
 {
   "versione": "0.4.2",
   "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.2/digitalCUP-0.4.2.pacchetto",
-  "sha256": "dfc3d47862c4f46dd2353512c8f969853649748938f7b1deb8cd468c4901a482",
-  "dimensione": 148764907,
-  "note": "Novita' della 0.4.2: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge anche i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli' per il testo tecnico; ti avvisa se mancano le cartelle delle pratiche.",
+  "sha256": "c535aee41871c671fd243b508f41890df1848b892dbaae6f412ed5352301fdf6",
+  "dimensione": 148806971,
+  "note": "Novita' della 0.4.2: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli'; meno cartelle accanto al programma; gli aggiornamenti non toccano la cartella workflows.",
   "data": "2026-11-05",
-  "firma": "I0QUEMTarF517PxOFT6urLup6DIjBaUea1Pg4gcFI6Q4CF97GW8iz7iaAHfuHhuGwPntKGL8Hl98JqG+GnVCBg=="
+  "firma": "TtZY9U3m4RLH91Pve18LkKJ5clT5D+IZsM6Zkp/206puzzsDizY9s9S501C+0uq6xbugCVklEpvRQSLG7r/9AQ=="
 }
