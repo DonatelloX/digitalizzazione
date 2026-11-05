@@ -1,9 +1,9 @@
 {
-  "versione": "0.4.2",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.2/digitalCUP-0.4.2.pacchetto",
-  "sha256": "c535aee41871c671fd243b508f41890df1848b892dbaae6f412ed5352301fdf6",
-  "dimensione": 148806971,
-  "note": "Novita' della 0.4.2: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli'; meno cartelle accanto al programma; gli aggiornamenti non toccano la cartella workflows.",
+  "versione": "0.4.3",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.3/digitalCUP-0.4.3.pacchetto",
+  "sha256": "3c20c7fe89c356ab8cdde510cc5bde4fd017706d08ce55d2434e6b012c0e05f3",
+  "dimensione": 148806903,
+  "note": "Novita' della 0.4.3: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli'; meno cartelle accanto al programma; gli aggiornamenti non toccano piu' la cartella workflows.",
   "data": "2026-11-05",
-  "firma": "TtZY9U3m4RLH91Pve18LkKJ5clT5D+IZsM6Zkp/206puzzsDizY9s9S501C+0uq6xbugCVklEpvRQSLG7r/9AQ=="
+  "firma": "7GCp9n+luGE74BouSyn9utBV/l3UbqFB92PtzWkne49uFEgrr4I9dfoYhU4Ki08DuWdOH1Jc1NREe6/fDv3SDw=="
 }
