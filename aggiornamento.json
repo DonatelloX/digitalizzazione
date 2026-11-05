@@ -1,9 +1,9 @@
 {
-  "versione": "0.4.1",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.1/digitalCUP-0.4.1.pacchetto",
-  "sha256": "30811cb02a5fdb55809ba13ac6139579e93ee84e51b72a6667f224007c13b7f0",
-  "dimensione": 148757181,
-  "note": "Novita' della 0.4.1: i modelli Word sono gia' nel programma; prima di ogni workflow controlla se un Excel e' bloccato o aperto e dice cosa fare; il controllo dei PDF guarda solo i corsi scelti (prima un PDF di un altro corso poteva fermare tutto); valgono anche le cartelle LIQUIDAZIONI e simili; pulsante Ritorna quando si inseriscono i valori a mano.",
+  "versione": "0.4.2",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.2/digitalCUP-0.4.2.pacchetto",
+  "sha256": "dfc3d47862c4f46dd2353512c8f969853649748938f7b1deb8cd468c4901a482",
+  "dimensione": 148764907,
+  "note": "Novita' della 0.4.2: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge anche i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli' per il testo tecnico; ti avvisa se mancano le cartelle delle pratiche.",
   "data": "2026-11-05",
-  "firma": "hNJd1R/ByHSAs5F1EUZG9Ztk5UjxC2BUCWWpAKrbfbheUAXQyTZK6GeEp9LoQxrU1025LmHYvWSAlpMZQd6WCQ=="
+  "firma": "I0QUEMTarF517PxOFT6urLup6DIjBaUea1Pg4gcFI6Q4CF97GW8iz7iaAHfuHhuGwPntKGL8Hl98JqG+GnVCBg=="
 }
