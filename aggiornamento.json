@@ -1,9 +1,9 @@
 {
-  "versione": "0.4.3",
-  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.3/digitalCUP-0.4.3.pacchetto",
-  "sha256": "3c20c7fe89c356ab8cdde510cc5bde4fd017706d08ce55d2434e6b012c0e05f3",
-  "dimensione": 148806903,
-  "note": "Novita' della 0.4.3: usa solo l'All. 3 e l'Elenco Organismi Accreditati giusti e, se ne trova piu' d'uno, chiede quale; legge i file con percorsi molto lunghi su OneDrive; con un corso scelto legge solo i suoi PDF; messaggi d'errore piu' semplici, con 'Mostra dettagli'; meno cartelle accanto al programma; gli aggiornamenti non toccano piu' la cartella workflows.",
-  "data": "2026-11-05",
-  "firma": "7GCp9n+luGE74BouSyn9utBV/l3UbqFB92PtzWkne49uFEgrr4I9dfoYhU4Ki08DuWdOH1Jc1NREe6/fDv3SDw=="
+  "versione": "0.4.4",
+  "url": "https://github.com/DonatelloX/digitalizzazione/releases/download/v0.4.4/digitalCUP-0.4.4.pacchetto",
+  "sha256": "78295b99939b79b932a848cf77cc47c73cf825b706244433f045aebbff6c4d43",
+  "dimensione": 148913335,
+  "note": "Grafica nuova con tema chiaro o scuro. Tasto Novita. Corretto il numero della fattura che poteva sparire scegliendo un PDF tra piu' candidati. Elenco dei valori mancanti piu' affidabile. Avviso se un Excel e' aperto. L'All. 3 corretto durante il lavoro viene riletto.",
+  "data": "2026-11-06",
+  "firma": "YO3GC8Qt3HePi9sDg/9wrhHO/hTvhuq5RQoi17lMHs+3mzFKGXAvZlEjyX9nq/NKTymcelUcDM9SJwEShotpDw=="
 }
